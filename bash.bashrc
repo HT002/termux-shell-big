@@ -13,8 +13,8 @@ echo -e "\e[1mLine :@ zcombkill"
 echo -e "\e[1mGithub: github.com/HT002/"
 echo "----------------------------" | lolcat
 echo "
-+-+-+-+-+-+-+-+
++-+-+-+-+-+-+
 |ส|วั|ดี|ค|รั|บ|
-+-+-+-+-+-+-+-+ " | lolcat
++-+-+-+-+-+-+" | lolcat
 date | lolcat
 echo ""
