@@ -1,0 +1,11 @@
+apt update
+
+apt install git -y
+
+git clone https://github.com/HT002/termux-shell-big.git
+
+cd termux-shell-big
+
+chmod +x *
+
+sh install.sh
